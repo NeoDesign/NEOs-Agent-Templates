@@ -2,7 +2,7 @@
 
 This repository provides reusable role definitions for a software-development team built with Paperclip-style agents. The templates are project-neutral and can be adapted to Python or other technology stacks.
 
-Canonical repository: [NeoDesign/NEOs-Paperclip-Agent-Templates](https://github.com/NeoDesign/NEOs-Paperclip-Agent-Templates)
+Canonical repository: [NeoDesign/NEOs-Agent-Templates](https://github.com/NeoDesign/NEOs-Agent-Templates)
 
 ## Core team
 
