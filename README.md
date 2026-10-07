@@ -1,4 +1,4 @@
-# NEOs Paperclip Agent Templates
+# NEOs Agent Templates
 
 This repository provides reusable role definitions for a software-development team built with Paperclip-style agents. The templates are project-neutral and can be adapted to Python or other technology stacks.
 
