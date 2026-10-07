@@ -1,6 +1,6 @@
 # NEOs Agent Templates
 
-This repository provides reusable role definitions for a software-development team built with Paperclip-style agents. The templates are project-neutral and can be adapted to Python or other technology stacks.
+This repository provides reusable role definitions for a software-development team built with agents. The templates are project-neutral and can be adapted to Python or other technology stacks.
 
 Canonical repository: [NeoDesign/NEOs-Agent-Templates](https://github.com/NeoDesign/NEOs-Agent-Templates)
 
@@ -45,7 +45,7 @@ Repository-local instructions override generic examples but must not silently en
 
 ## License and attribution
 
-Except where otherwise noted, **NEOs Paperclip Agent Templates** is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+Except where otherwise noted, **NEOs Agent Templates** is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 **Creator:** [Prof. Dr. rer. nat. Alexander Lutz](https://die-neos.de/) (NEOs KI Agentur)
 
@@ -55,7 +55,7 @@ You may use, share, and adapt these templates, including for commercial purposes
 
 Suggested attribution:
 
-> Based on “NEOs Paperclip Agent Templates” by Prof. Dr. rer. nat. Alexander Lutz (NEOs KI Agentur, https://die-neos.de/), licensed under CC BY 4.0. Changes were made.
+> Based on “NEOs Agent Templates” by Prof. Dr. rer. nat. Alexander Lutz (NEOs KI Agentur, https://die-neos.de/), licensed under CC BY 4.0. Changes were made.
 
 If the material is redistributed unchanged, replace “Changes were made” with “No changes were made.” Attribution does not imply endorsement by the creator or NEOs KI Agentur.
 
